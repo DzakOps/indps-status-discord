@@ -1,0 +1,21 @@
+Hello, this is zakops#0001.
+For friends who want to add a status on Discord, namely "status: playing indopride.ps," here's how:
+
+- Make sure you have "node-v18.17.1-x64" installed.
+- Ensure that all files are complete.
+- If the above 2 steps are "ready," you just need to click "start_status" twice.
+Note:
+If you close the "start_status," the status "playing indopride.ps" will turn off.
+
+#INDONESIA
+Halo, ini saya zakops#0001.
+Bagi teman-teman yang ingin menambahkan status di Discord, yaitu "status: playing indopride.ps," berikut caranya:
+
+- Pastikan Anda sudah menginstal "node-v18.17.1-x64."
+- Pastikan semua file sudah lengkap.
+- Jika langkah di atas sudah "siap," Anda hanya perlu mengklik "start_status" dua kali.
+Catatan:
+Jika Anda menutup "start_status," status "playing indopride.ps" akan mati.
+
+
+script by @zakops#0001 with AI
